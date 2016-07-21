@@ -5,7 +5,7 @@ const DefaultPosition = {
     position: 0,
     lineAndCharacter: {
         character: 0,
-        line: 0
+        line: 1
     }
 };
 
