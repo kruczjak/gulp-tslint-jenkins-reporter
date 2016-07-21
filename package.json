@@ -1,5 +1,5 @@
 {
-  "name": "gulp-tslint-jenkins-reporter",
+  "name": "gulp-tslint-jenkins-reporter-kruczjak",
   "version": "1.0.3",
   "description": "gulp-tslint checkstyle reporter, to be used by Jenkins (Hudson). Writes output to an xml file.",
   "main": "index.js",
@@ -9,17 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicolas-schmitt/gulp-tslint-jenkins-reporter.git"
+    "url": "git+https://github.com/kruczjak/gulp-tslint-jenkins-reporter.git"
   },
   "keywords": [
-    "gulp",
-    "tslint",
-    "checkstyle",
-    "reporter",
-    "report",
-    "xml",
-    "jenkins",
-    "hudson"
   ],
   "author": "Nicolas Schmitt <https://github.com/nicolas-schmitt>",
   "license": "MIT",
